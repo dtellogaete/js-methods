@@ -1,7 +1,5 @@
 # Todo List
 
-Renderización dinámica de propiedades inmobiliarias y filtros de búsquedas de un menú lateral utilizando Javascript.
-
 ![Todo List](/assets/img/img.png "Todo List")
 
 La página puede verse en: [https://dtellogaete.github.io/js-methods/](https://dtellogaete.github.io/js-methods/)
